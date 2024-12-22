@@ -1,0 +1,1 @@
+This error occurs when using the Expo `Linking` API to handle deep links.  It happens when the app tries to open a URL that's already being handled by another app or system component. The error message is not always descriptive and might manifest as a generic error or a crash.
